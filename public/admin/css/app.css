@@ -1,0 +1,88 @@
+
+/**
+ * Donation Page
+ */
+.donation-title{
+    display: inline-block;
+    background: #dc3545;
+    color: #fff;
+    padding: 8px 5px 8px 70px;
+    margin-left: 25px;
+    width: 220px !important;
+}
+.hospital_address{
+    min-width: 250px;
+    width: auto !important;
+}
+.donation-details{
+    margin: 25px 0;
+}
+/**
+ * Logout Button
+ */
+.logout{
+    display: inline-block;
+    padding: 5px 5px 5px 26px;
+    margin-top: 1px;
+}
+/**
+ * Datatable Search Box
+ */
+.dataTables_filter{
+    float: right;
+}
+.table{
+    width: 100% !important;
+}
+.form-delete{
+    display: contents;
+}
+.per-check-name{
+    text-transform: capitalize;
+    margin: 10px;
+}
+.per-check-name input[type=checkbox]{
+    margin: 0 6px;
+}
+/**
+ * Datatable Images Style
+ */
+.image-rounded{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 1px solid #86868642;
+    box-shadow: 1px 0.5px 4px;
+}
+/**
+ * preview img class
+ *
+ */
+.preview-img{
+    display: none;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 20px;
+}
+
+
+/**
+ * Alert Styles
+ *
+ */
+
+.success-logo{
+    border: 1px solid #a5dc86;
+    width: 100%;
+    height: 100%;
+}
+.success-line-tip{
+    border: 1px solid #a5dc86;
+    width: 1.5625em;
+    transform: rotate(45deg);
+}
+.success-line-long{
+    border: 1px solid #a5dc86;
+    width: 2.9375em;
+    transform: rotate(45deg);
+}
